@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kanghoupeng.com/"/>
-  <updated>2019-09-07T13:14:37.890Z</updated>
+  <updated>2019-09-08T05:25:55.451Z</updated>
   <id>http://kanghoupeng.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://kanghoupeng.com/posts/2019/9/7/%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0/"/>
     <id>http://kanghoupeng.com/posts/2019/9/7/诗人毛泽东札记/</id>
     <published>2019-09-07T12:48:16.000Z</published>
-    <updated>2019-09-07T13:14:37.890Z</updated>
+    <updated>2019-09-08T05:25:55.451Z</updated>
     
     <content type="html"><![CDATA[<p>中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。</p><p>北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！</p><a id="more"></a><p>中国人民的一代领袖<a href="http://tv.cctv.com/2018/11/22/VIDENewQth7mKTKUpF1ISjr1181122.shtml" target="_blank" rel="noopener">毛泽东</a>，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……</p>]]></content>
     
@@ -50,7 +50,7 @@
     <link href="http://kanghoupeng.com/posts/2019/9/7/%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0/"/>
     <id>http://kanghoupeng.com/posts/2019/9/7/文化苦旅札记/</id>
     <published>2019-09-07T12:40:16.000Z</published>
-    <updated>2019-09-07T13:14:43.861Z</updated>
+    <updated>2019-09-08T05:25:55.452Z</updated>
     
     <content type="html"><![CDATA[<p>莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。</p><a id="more"></a><p>有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……</p>]]></content>
     
@@ -77,7 +77,7 @@
     <link href="http://kanghoupeng.com/posts/2019/9/6/hello-world/"/>
     <id>http://kanghoupeng.com/posts/2019/9/6/hello-world/</id>
     <published>2019-09-06T14:15:34.928Z</published>
-    <updated>2019-09-07T02:26:44.912Z</updated>
+    <updated>2019-09-08T05:25:55.449Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="Common-Command"><a href="#Common-Command" class="headerlink" title="Common Command"></a>Common Command</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean <span class="comment">#清理之前生成的内容，即public文件</span></span><br><span class="line">$ hexo g <span class="comment">#生成静态文件</span></span><br><span class="line">$ hexo d <span class="comment">#部署</span></span><br><span class="line">$ hexo s <span class="comment">#启动本地服务，可以通过http://localhost:4000查看</span></span><br><span class="line">$ hexo s --debug <span class="comment">#使用debug模式启动服务</span></span><br></pre></td></tr></table></figure><h3 id="How-to-create-my-blog"><a href="#How-to-create-my-blog" class="headerlink" title="How to create my blog"></a>How to create my blog</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">Open git Bash</span><br><span class="line"></span><br><span class="line">Enter the following <span class="built_in">command</span> to create an article, <span class="built_in">where</span> title is the title of the article</span><br><span class="line"></span><br><span class="line">$ hexo new <span class="string">"title"</span></span><br><span class="line"></span><br><span class="line">Then you will find that a <span class="string">"title. md"</span> is generated <span class="keyword">in</span> the <span class="built_in">source</span>\ posts directory, and you can write your own blog <span class="keyword">in</span> this file!</span><br><span class="line"></span><br><span class="line">Once you have written it, just follow the steps mentioned above.</span><br><span class="line"></span><br><span class="line">Add &lt;!--more--&gt; and you can see a part of article.</span><br></pre></td></tr></table></figure>]]></content>
     
