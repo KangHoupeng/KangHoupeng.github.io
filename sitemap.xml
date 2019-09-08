@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://kanghoupeng.com/about/index.html</loc>
+    
+    <lastmod>2019-09-08T05:27:40.737Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kanghoupeng.com/categories/index.html</loc>
+    
+    <lastmod>2019-09-08T05:27:24.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://kanghoupeng.com/schedule/index.html</loc>
+    
+    <lastmod>2019-09-08T05:27:06.545Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://kanghoupeng.com/tags/index.html</loc>
     
     <lastmod>2019-09-08T05:26:34.496Z</lastmod>
