@@ -1,93 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title></title>
-      <link href="/posts/2019/9/8//"/>
-      <url>/posts/2019/9/8//</url>
-      
-        <content type="html"><![CDATA[<hr><p>QQ：2847464759<br>大数据+AI—-文本分析&amp;&amp;图像处理<br>每周4 6 7 晚 8:00-10:30</p><hr><p>顶级会议。。。+GitHub<br>1、人工智能概述<br>人工智能（AI）是交叉学科，用人工的方法在机器上实现智能。<br>“你有多人工 就有多智能”，人工标注必不可少。<br>人工智能的创始人：马文。明斯基（Marvin Minsky）毕业于哈弗大学<br>MIT创始人。—微型世界，<br>习近平总书记：《新一代人工智能发展规划》</p><p>2、AI的主要学派与分类<br>（1）符号主义<br>逻辑推理，专家系统（ES Expert System） 例如：37度（T）—》买冰棍（B）—》35度<br>MyCIN—辅助内科医生看病开最佳处方。<br>（2）行为主义<br>控制论 智能体（Agent） 感知—动作。例如：自动驾驶、机器人<br>（3）连接主义<br>人工神经网络（ANN）—<br>3、AI的发展历史<br>1956-1974：Ai 的黄金时代。 达特茅斯大学 麦卡锡<br>MIT–明斯基，自然语言处理、视觉项目<br>Standford—麦卡锡<br>CMU–纽厄尔和西蒙–符号主义<br>1974-1980：第一次低谷<br>AI期望过高。项目无法交付，<br>1980-1987：繁荣<br>专家系统—知识处理。<br>人工对话、机器翻译。<br>特定领域：缺乏常识性的知识、知识获取困难。特定问题。<br>1987-1993：第二次低谷<br>1993-2012 春天。<br>AI—解决不了所有问题–》解决特定问题。<br>弱人工智能—语音识别、图像识别、机器翻译–成功。<br>强人工智能 还有距离。自然语言处理 属于弱人工智能。<br>2006年<br>Hinton—解决了深度学习中网络层次比较多的时候，NP Nature<br>4、AI研究的主要技术问题<br>（1）自动推理（if else and or 异或）<br>（2）认知建模（对某个问题相关的所有信息处理–认知。数学表达式。y=ax+b）<br>SVM—超平面<br>LR–逻辑回归<br>贝叶斯–后验概率。<br>sckitlearn<br>（3）知识表示—知识图谱（Knowledge Graph，KG）。实体 实体与实体之间的关系<br>Neo4J<br>（4）机器学习<br>预测算法、分类算法、聚类算法、关联分析、协同过滤<br>（5）深度学习<br>CNN RNN GRU LSTM<br>（6）强化学习、集成学习<br>（7）自然语言处理—认知智能。<br>人工智能的桂冠。40-50<br>头条、美团、滴滴、BAT、<br>情感分析（正向和负向）<br>科大讯飞。<br>复旦、上海交大、哈工大、中科院、清华 自然语言处理。</p><p>5、人工智能行业应用<br>（1）城市交通信号控制。车牌号识别—图像识别。阿里<br>（2）医疗AI领域：辅助医疗诊断。 腾讯<br>（3）语音评测： 英语听说考试。。科大讯飞<br>（4）机器翻译：有道 百度<br>（5）智能客服：siri；<br>（6）人群识别。人脸识别。<br>（7）智能制造机器人：自动榨汁机、自动咖啡机、自动炒菜机、大型自动化装卸设备。</p><p>6、中文NLP（Natural Language Processing，NLP）基本定义<br>（1）定义：计算机科学、人工智能、语言学。处理计算机和人类自然语言之间的相互作用关系。<br>信息自动提取、自动摘要、智能问答、智能推荐、情感分析。<br>（2）自然语言理解（Natural Language Understanding，NLU）：让计算机来听懂语言。<br>查询资料、解答问题、摘录文献、汇编资料等。<br>（3）自然语言生成（Natural Language Generation，NLG）：让计算机能够自动表达和写作。<br>：<a href="https://arxiv.org/abs/1708.05148（2017）" target="_blank" rel="noopener">https://arxiv.org/abs/1708.05148（2017）</a><br>Natural Language Processing: State of The Art, Current Trends and Challenges<br>7、中文NLP主要任务<br>字、词、语句、篇章的处理。 I love china。我爱中国。 我 爱 中国！<br>我喜欢来潭州学院学习。我 喜欢 来 潭州 学院 学习。<br>（1）自动摘要提取<br>（2）指代消解。小明欺负小亮，我指责了她。<br>（3）歧义分析。<br>研究生命科学。 研究生 命 科学—研究 生命科学<br>研究生命令本科生。研究生<br>我从马上下来<br>我马上下来。<br>把我苹果拿过来。<br>（4）词性标注 nn verb<br>（5）命名实体识别NER<br>（6）OCR文字信息的提取。<br>（7）语法分析<br>文本聚类<br>文本分类<br>词向量生成–数据才能计算。</p><p>8、中文NLP发展历史</p><p>9、深度学习与NLP</p><p>10、NLP主要研究方向和难点</p><hr><p>常见自然语言处理包。</p><p>大家下载一下 PyCharm+python 3.7+pip<br>NLTK Gensim jieba TextBlob</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>诗人毛泽东札记</title>
-      <link href="/posts/2019/9/7/%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/7/%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。</p><p>北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！</p><a id="more"></a><p>中国人民的一代领袖<a href="http://tv.cctv.com/2018/11/22/VIDENewQth7mKTKUpF1ISjr1181122.shtml" target="_blank" rel="noopener">毛泽东</a>，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[诗人毛泽东札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！中国人民的一代领袖毛泽东，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……]]></content>
       <categories>
-          
-          <category> 传记 </category>
-          
+        <category>传记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> 毛泽东 </tag>
-            
-            <tag> 诗歌 </tag>
-            
-            <tag> 生平 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文化苦旅札记</title>
-      <link href="/posts/2019/9/7/%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/7/%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。</p><a id="more"></a><p>有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……</p>]]></content>
-      
-      
+      <tags>
+        <tag>阅读</tag>
+        <tag>毛泽东</tag>
+        <tag>诗歌</tag>
+        <tag>生平</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文化苦旅札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……]]></content>
       <categories>
-          
-          <category> 专著 </category>
-          
+        <category>专著</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> 余秋雨 </tag>
-            
-            <tag> 散文 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/posts/2019/9/6/hello-world/"/>
-      <url>/posts/2019/9/6/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="Common-Command"><a href="#Common-Command" class="headerlink" title="Common Command"></a>Common Command</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean <span class="comment">#清理之前生成的内容，即public文件</span></span><br><span class="line">$ hexo g <span class="comment">#生成静态文件</span></span><br><span class="line">$ hexo d <span class="comment">#部署</span></span><br><span class="line">$ hexo s <span class="comment">#启动本地服务，可以通过http://localhost:4000查看</span></span><br><span class="line">$ hexo s --debug <span class="comment">#使用debug模式启动服务</span></span><br></pre></td></tr></table></figure><h3 id="How-to-create-my-blog"><a href="#How-to-create-my-blog" class="headerlink" title="How to create my blog"></a>How to create my blog</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">Open git Bash</span><br><span class="line"></span><br><span class="line">Enter the following <span class="built_in">command</span> to create an article, <span class="built_in">where</span> title is the title of the article</span><br><span class="line"></span><br><span class="line">$ hexo new <span class="string">"title"</span></span><br><span class="line"></span><br><span class="line">Then you will find that a <span class="string">"title. md"</span> is generated <span class="keyword">in</span> the <span class="built_in">source</span>\ posts directory, and you can write your own blog <span class="keyword">in</span> this file!</span><br><span class="line"></span><br><span class="line">Once you have written it, just follow the steps mentioned above.</span><br><span class="line"></span><br><span class="line">Add &lt;!--more--&gt; and you can see a part of article.</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>阅读</tag>
+        <tag>余秋雨</tag>
+        <tag>散文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Fposts%2F2019%2F9%2F6%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: DeploymentCommon Command12345$ hexo clean #清理之前生成的内容，即public文件$ hexo g #生成静态文件$ hexo d #部署$ hexo s #启动本地服务，可以通过http://localhost:4000查看$ hexo s --debug #使用debug模式启动服务How to create my blog1234567891011Open git BashEnter the following command to create an article, where title is the title of the article$ hexo new "title"Then you will find that a "title. md" is generated in the source\ posts directory, and you can write your own blog in this file!Once you have written it, just follow the steps mentioned above.Add &lt;!--more--&gt; and you can see a part of article.]]></content>
+  </entry>
 </search>
