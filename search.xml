@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title><![CDATA[诗人毛泽东札记]]></title>
-    <url>%2F2019%2F9%2F7%2F%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0%2F</url>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0%2Findex.html</url>
     <content type="text"><![CDATA[中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！中国人民的一代领袖毛泽东，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……]]></content>
       <categories>
         <category>传记</category>
@@ -16,7 +16,7 @@
   </entry>
   <entry>
     <title><![CDATA[文化苦旅札记]]></title>
-    <url>%2F2019%2F9%2F7%2F%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0%2F</url>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0%2Findex.html</url>
     <content type="text"><![CDATA[莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……]]></content>
       <categories>
         <category>专著</category>
@@ -29,7 +29,7 @@
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F9%2F6%2Fhello-world%2F</url>
+    <url>%2Fposts%2F2019%2F9%2F6%2Fhello-world%2Findex.html</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: DeploymentCommon Command12345$ hexo clean #清理之前生成的内容，即public文件$ hexo g #生成静态文件$ hexo d #部署$ hexo s #启动本地服务，可以通过http://localhost:4000查看$ hexo s --debug #使用debug模式启动服务How to create my blog1234567891011Open git BashEnter the following command to create an article, where title is the title of the article$ hexo new "title"Then you will find that a "title. md" is generated in the source\ posts directory, and you can write your own blog in this file!Once you have written it, just follow the steps mentioned above.Add &lt;!--more--&gt; and you can see a part of article.]]></content>
   </entry>
 </search>
