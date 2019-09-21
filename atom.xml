@@ -23,20 +23,17 @@
     <published>2019-09-21T12:51:14.000Z</published>
     <updated>2019-09-21T12:51:14.000Z</updated>
     
-    <content type="html"><![CDATA[<p>当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。</p><p>Linux是一个全新的世界</p>]]></content>
+    <content type="html"><![CDATA[<p>当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。</p><p>Linux是一个全新的世界，世界意味着博大精深，而新或许代表对旧的割舍和扬弃……</p><a id="more"></a><p>Linux源代码官方网址：<a href="http://www.kernel.org/" target="_blank" rel="noopener">http://www.kernel.org/</a></p><p>安装目录</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/usr/src/linux</span><br></pre></td></tr></table></figure><p>Linux的竞争力：</p><ul><li>单块结构的内核</li><li>编译并静态连接的传统Unix内核</li><li>内核线程</li><li>多线程应用程序支持</li><li>抢占式内核</li><li>文件系统</li><li>STREAMS</li></ul><p>Linux的优势</p><ul><li>Linux是免费的</li><li>Linux所有成分都可以充分地定制</li><li>Linux可以运行在低档、便宜的硬件平台上</li><li>Linux是强大的</li><li>Linux的开发者都是…非常出色的程序员</li><li>Linux内核非常小，而且紧凑</li><li>Linux与很多通用操作系统高度兼容</li><li>Linux有很好的技术支持</li></ul><p>Linux试图在硬件无关的源代码和硬件相关的源代码之间，为了做到这一点，在arch和include目录下包含了23个子目录，以对应Linux所支持的不同硬件平台。</p><p>如：</p><ul><li>alpha—HP的alpha工作站</li><li>arm—基于ARM处理器的计算机和嵌入式设备</li><li>x86_64—基于AMD 的64位微处理器的工作站</li><li>um—用户态的Linux，允许开发者在用户态运行内核的虚拟平台</li></ul><p>Linux版本：前两位为版本号，第三位为发布号，第四位表示带有不同补丁的内核版本</p><p>操作系统基本概念</p><p>使用术语“操作系统”作为“内核”的同义词。</p><p>操作系统必须完成两个主要目标：</p><ol><li>与硬件部分交互，为包含在硬件平台上的所有低层可编程部件提供服务。</li><li>为运行在计算机系统的应用程序提供执行环境。</li></ol>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。&lt;/p&gt;&lt;p&gt;Linux是一个
-      
+      &lt;p&gt;当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。&lt;/p&gt;&lt;p&gt;Linux是一个全新的世界，世界意味着博大精深，而新或许代表对旧的割舍和扬弃……&lt;/p&gt;
     
     </summary>
     
     
     
-      <category term="Linux，内核，" scheme="http://kanghoupeng.com/tags/Linux%EF%BC%8C%E5%86%85%E6%A0%B8%EF%BC%8C/"/>
+      <category term="Linux，内核，源码" scheme="http://kanghoupeng.com/tags/Linux%EF%BC%8C%E5%86%85%E6%A0%B8%EF%BC%8C%E6%BA%90%E7%A0%81/"/>
     
   </entry>
   
