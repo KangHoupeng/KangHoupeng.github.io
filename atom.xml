@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kanghoupeng.com/"/>
-  <updated>2019-09-08T12:03:08.000Z</updated>
+  <updated>2019-09-21T12:51:14.000Z</updated>
   <id>http://kanghoupeng.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>深入理解Linux内核札记</title>
+    <link href="http://kanghoupeng.com/posts/2019/9/21/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%E6%9C%AD%E8%AE%B0/"/>
+    <id>http://kanghoupeng.com/posts/2019/9/21/深入理解linux内核札记/</id>
+    <published>2019-09-21T12:51:14.000Z</published>
+    <updated>2019-09-21T12:51:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。</p><p>Linux是一个全新的世界</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。&lt;/p&gt;&lt;p&gt;Linux是一个
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Linux，内核，" scheme="http://kanghoupeng.com/tags/Linux%EF%BC%8C%E5%86%85%E6%A0%B8%EF%BC%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>偷影子的人札记</title>
@@ -35,11 +59,11 @@
       <category term="外国文学" scheme="http://kanghoupeng.com/categories/%E5%A4%96%E5%9B%BD%E6%96%87%E5%AD%A6/"/>
     
     
-      <category term="阅读" scheme="http://kanghoupeng.com/tags/%E9%98%85%E8%AF%BB/"/>
-    
       <category term="文艺" scheme="http://kanghoupeng.com/tags/%E6%96%87%E8%89%BA/"/>
     
       <category term="童年" scheme="http://kanghoupeng.com/tags/%E7%AB%A5%E5%B9%B4/"/>
+    
+      <category term="阅读" scheme="http://kanghoupeng.com/tags/%E9%98%85%E8%AF%BB/"/>
     
       <category term="Marc Levy" scheme="http://kanghoupeng.com/tags/Marc-Levy/"/>
     
