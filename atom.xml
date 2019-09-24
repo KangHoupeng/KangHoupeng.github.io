@@ -37,9 +37,9 @@
     
       <category term="诗歌" scheme="http://kanghoupeng.com/tags/%E8%AF%97%E6%AD%8C/"/>
     
-      <category term="李清照" scheme="http://kanghoupeng.com/tags/%E6%9D%8E%E6%B8%85%E7%85%A7/"/>
-    
       <category term="生平" scheme="http://kanghoupeng.com/tags/%E7%94%9F%E5%B9%B3/"/>
+    
+      <category term="李清照" scheme="http://kanghoupeng.com/tags/%E6%9D%8E%E6%B8%85%E7%85%A7/"/>
     
   </entry>
   
@@ -60,11 +60,11 @@
     
     
     
+      <category term="源码" scheme="http://kanghoupeng.com/tags/%E6%BA%90%E7%A0%81/"/>
+    
       <category term="Linux" scheme="http://kanghoupeng.com/tags/Linux/"/>
     
       <category term="内核" scheme="http://kanghoupeng.com/tags/%E5%86%85%E6%A0%B8/"/>
-    
-      <category term="源码" scheme="http://kanghoupeng.com/tags/%E6%BA%90%E7%A0%81/"/>
     
   </entry>
   

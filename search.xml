@@ -7,8 +7,8 @@
       <tags>
         <tag>阅读</tag>
         <tag>诗歌</tag>
-        <tag>李清照</tag>
         <tag>生平</tag>
+        <tag>李清照</tag>
       </tags>
   </entry>
   <entry>
@@ -16,9 +16,9 @@
     <url>%2Fposts%2F2019%2F9%2F21%2F%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%E6%9C%AD%E8%AE%B0%2F</url>
     <content type="text"><![CDATA[当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。Linux是一个全新的世界，世界意味着博大精深，而新或许代表对旧的割舍和扬弃……Linux源代码官方网址：http://www.kernel.org/安装目录1/usr/src/linuxLinux的竞争力：单块结构的内核编译并静态连接的传统Unix内核内核线程多线程应用程序支持抢占式内核文件系统STREAMSLinux的优势Linux是免费的Linux所有成分都可以充分地定制Linux可以运行在低档、便宜的硬件平台上Linux是强大的Linux的开发者都是…非常出色的程序员Linux内核非常小，而且紧凑Linux与很多通用操作系统高度兼容Linux有很好的技术支持Linux试图在硬件无关的源代码和硬件相关的源代码之间，为了做到这一点，在arch和include目录下包含了23个子目录，以对应Linux所支持的不同硬件平台。如：alpha—HP的alpha工作站arm—基于ARM处理器的计算机和嵌入式设备x86_64—基于AMD 的64位微处理器的工作站um—用户态的Linux，允许开发者在用户态运行内核的虚拟平台Linux版本：前两位为版本号，第三位为发布号，第四位表示带有不同补丁的内核版本操作系统基本概念使用术语“操作系统”作为“内核”的同义词。操作系统必须完成两个主要目标：与硬件部分交互，为包含在硬件平台上的所有低层可编程部件提供服务。为运行在计算机系统的应用程序提供执行环境。]]></content>
       <tags>
+        <tag>源码</tag>
         <tag>Linux</tag>
         <tag>内核</tag>
-        <tag>源码</tag>
       </tags>
   </entry>
   <entry>
