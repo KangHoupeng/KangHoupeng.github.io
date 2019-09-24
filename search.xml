@@ -1,159 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>李清照词传札记</title>
-      <link href="/posts/2019/9/24/%E6%9D%8E%E6%B8%85%E7%85%A7%E8%AF%8D%E4%BC%A0%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/24/%E6%9D%8E%E6%B8%85%E7%85%A7%E8%AF%8D%E4%BC%A0%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>半世烟雨，半世落花……</p><p>“词苑千载，群芳竞艳，盛开一枝女儿花。”这枝花在宋代萌发，绚烂了中国诗词的整个花季。飘散淡淡清香的诗笺上，有她的聪颖与傲骨，柔情与相似，坚强与悲戚……</p><p>她摇曳生姿地走来，行于汴京，行于青州，行于金华，行于中华五千年的灿烂文化，带来的是璀璨华章，锦瑟流年。她用沾满诗香的笔墨描绘出一个春暖花开的人间。</p><a id="more"></a><p>常记溪亭日暮，沉醉不知归路。</p><p>兴尽晚回舟，误入藕花深处。</p><p>争渡，争渡，惊起一滩鸥鹭。</p><p>——《如梦令》</p><p>昨夜雨疏风骤，浓睡不消残酒。</p><p>试问卷帘人，却道海棠依旧。</p><p>知否？知否？应是绿肥红瘦。</p><p>——《如梦令》</p><p>湖上风来波浩渺，秋已暮、红稀香少。</p><p>水光山色与人亲，说不尽、无穷好。</p><p>莲子已成荷叶老，清露洗、频花汀草。</p><p>眠沙鸥鹭不回头，似也恨、人归早。</p><p>——《怨王孙》</p><p>小院闲窗春色深，重帘未卷影沈沈。</p><p>倚楼无语理瑶琴。</p><p>远岫出山催薄暮，细风吹雨弄轻阴。</p><p>梨花欲谢恐难禁。</p><p>——《浣溪沙》</p><p>淡荡春光寒食天，玉炉沈水袅残烟。</p><p>梦回山枕隐花钿。</p><p>海燕未来人斗草，江梅已过柳生绵。</p><p>黄昏疏雨湿秋千。</p><p>——《浣溪沙》</p><p>莫许杯深琥珀浓，未成沈醉意先融。</p><p>疏钟己应晚来风。</p><p>瑞脑香消魂梦断，辟寒金小髻鬟松。</p><p>醒时空对烛花红。</p><p>——《浣溪沙》</p><p>蹴罢秋千，起来慵整纤纤手。</p><p>露浓花瘦，薄汗轻衣透。</p><p>见有人来，袜刬金钗溜。</p><p>和羞走，倚门回首，却把青梅嗅。</p><p>——《点绛唇》</p><p>禁幄低张，雕栏巧护，就中独占残春。</p><p>客华淡伫，绰约俱见天真。</p><p>待得群花过後，一番风露晓妆新。</p><p>妖娆态，妒风笑月，长殢东君。</p><p>东城边，南陌上，正日烘池馆，竞走香轮。</p><p>绮筵散日，谁人可继芳尘？</p><p>更好明光宫殿，几枝先近日边匀。</p><p>金尊倒，拚了尽烛，不管黄昏。</p><p>——《庆清明》</p><p>……未完待续</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> 诗歌 </tag>
-            
-            <tag> 生平 </tag>
-            
-            <tag> 李清照 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>深入理解Linux内核札记</title>
-      <link href="/posts/2019/9/21/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/21/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。</p><p>Linux是一个全新的世界，世界意味着博大精深，而新或许代表对旧的割舍和扬弃……</p><a id="more"></a><p>Linux源代码官方网址：<a href="http://www.kernel.org/" target="_blank" rel="noopener">http://www.kernel.org/</a></p><p>安装目录</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/usr/src/linux</span><br></pre></td></tr></table></figure><p>Linux的竞争力：</p><ul><li>单块结构的内核</li><li>编译并静态连接的传统Unix内核</li><li>内核线程</li><li>多线程应用程序支持</li><li>抢占式内核</li><li>文件系统</li><li>STREAMS</li></ul><p>Linux的优势</p><ul><li>Linux是免费的</li><li>Linux所有成分都可以充分地定制</li><li>Linux可以运行在低档、便宜的硬件平台上</li><li>Linux是强大的</li><li>Linux的开发者都是…非常出色的程序员</li><li>Linux内核非常小，而且紧凑</li><li>Linux与很多通用操作系统高度兼容</li><li>Linux有很好的技术支持</li></ul><p>Linux试图在硬件无关的源代码和硬件相关的源代码之间，为了做到这一点，在arch和include目录下包含了23个子目录，以对应Linux所支持的不同硬件平台。</p><p>如：</p><ul><li>alpha—HP的alpha工作站</li><li>arm—基于ARM处理器的计算机和嵌入式设备</li><li>x86_64—基于AMD 的64位微处理器的工作站</li><li>um—用户态的Linux，允许开发者在用户态运行内核的虚拟平台</li></ul><p>Linux版本：前两位为版本号，第三位为发布号，第四位表示带有不同补丁的内核版本</p><p>操作系统基本概念</p><p>使用术语“操作系统”作为“内核”的同义词。</p><p>操作系统必须完成两个主要目标：</p><ol><li>与硬件部分交互，为包含在硬件平台上的所有低层可编程部件提供服务。</li><li>为运行在计算机系统的应用程序提供执行环境。</li></ol>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 源码 </tag>
-            
-            <tag> Linux </tag>
-            
-            <tag> 内核 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>偷影子的人札记</title>
-      <link href="/posts/2019/9/8/%E5%81%B7%E5%BD%B1%E5%AD%90%E7%9A%84%E4%BA%BA%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/8/%E5%81%B7%E5%BD%B1%E5%AD%90%E7%9A%84%E4%BA%BA%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>我的童年就在那里，带点忧愁又带点悲痛，在这外省的小城市里，我拼命等着伊丽莎白垂怜而看我一眼，在绝望中等待长大。</p><p>为每一个你所偷来的影子找到点亮生命的小光芒，为他们找回隐匿的记忆拼图，这便是我们对你的全部请托。</p><a id="more"></a><p>爱情里最需要的，是想象力。每个人必须用尽和全部的想象力来塑造对方，并丝毫不向现实低头。那么，当双方的幻想相遇……就再也没有比这更美的景象了。——Romain Gar</p><p>这部作品完美展现了马克李维温柔风趣的写作风格，有催人泪下的亲情、浪漫感人的爱情和不离不弃的友情，清新浪漫的气息和温柔感人的故事相互交织，带给读者笑中带泪的阅读感受，是一部唤醒童年回忆和内心梦想的温情疗愈小说。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[李清照词传札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F24%2F%E6%9D%8E%E6%B8%85%E7%85%A7%E8%AF%8D%E4%BC%A0%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[半世烟雨，半世落花……“词苑千载，群芳竞艳，盛开一枝女儿花。”这枝花在宋代萌发，绚烂了中国诗词的整个花季。飘散淡淡清香的诗笺上，有她的聪颖与傲骨，柔情与相似，坚强与悲戚……她摇曳生姿地走来，行于汴京，行于青州，行于金华，行于中华五千年的灿烂文化，带来的是璀璨华章，锦瑟流年。她用沾满诗香的笔墨描绘出一个春暖花开的人间。常记溪亭日暮，沉醉不知归路。兴尽晚回舟，误入藕花深处。争渡，争渡，惊起一滩鸥鹭。——《如梦令》昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否？知否？应是绿肥红瘦。——《如梦令》湖上风来波浩渺，秋已暮、红稀香少。水光山色与人亲，说不尽、无穷好。莲子已成荷叶老，清露洗、频花汀草。眠沙鸥鹭不回头，似也恨、人归早。——《怨王孙》小院闲窗春色深，重帘未卷影沈沈。倚楼无语理瑶琴。远岫出山催薄暮，细风吹雨弄轻阴。梨花欲谢恐难禁。——《浣溪沙》淡荡春光寒食天，玉炉沈水袅残烟。梦回山枕隐花钿。海燕未来人斗草，江梅已过柳生绵。黄昏疏雨湿秋千。——《浣溪沙》莫许杯深琥珀浓，未成沈醉意先融。疏钟己应晚来风。瑞脑香消魂梦断，辟寒金小髻鬟松。醒时空对烛花红。——《浣溪沙》蹴罢秋千，起来慵整纤纤手。露浓花瘦，薄汗轻衣透。见有人来，袜刬金钗溜。和羞走，倚门回首，却把青梅嗅。——《点绛唇》禁幄低张，雕栏巧护，就中独占残春。客华淡伫，绰约俱见天真。待得群花过後，一番风露晓妆新。妖娆态，妒风笑月，长殢东君。东城边，南陌上，正日烘池馆，竞走香轮。绮筵散日，谁人可继芳尘？更好明光宫殿，几枝先近日边匀。金尊倒，拚了尽烛，不管黄昏。——《庆清明》……未完待续]]></content>
+      <tags>
+        <tag>阅读</tag>
+        <tag>诗歌</tag>
+        <tag>生平</tag>
+        <tag>李清照</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[深入理解Linux内核札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F21%2F%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[当我们拿到Linux内核代码开始研究时，可以说茫然无措。其规模之大，叫“覆压三百余里，隔离天日”似乎不为过；其关系错综复杂，叫“廊腰缦回，檐牙高啄，各抱地势，勾心斗角”也非言过其实。阿房宫在规模和结构上给人的震撼可能与Linux有异曲同工之妙。Linux是一个全新的世界，世界意味着博大精深，而新或许代表对旧的割舍和扬弃……Linux源代码官方网址：http://www.kernel.org/安装目录1/usr/src/linuxLinux的竞争力：单块结构的内核编译并静态连接的传统Unix内核内核线程多线程应用程序支持抢占式内核文件系统STREAMSLinux的优势Linux是免费的Linux所有成分都可以充分地定制Linux可以运行在低档、便宜的硬件平台上Linux是强大的Linux的开发者都是…非常出色的程序员Linux内核非常小，而且紧凑Linux与很多通用操作系统高度兼容Linux有很好的技术支持Linux试图在硬件无关的源代码和硬件相关的源代码之间，为了做到这一点，在arch和include目录下包含了23个子目录，以对应Linux所支持的不同硬件平台。如：alpha—HP的alpha工作站arm—基于ARM处理器的计算机和嵌入式设备x86_64—基于AMD 的64位微处理器的工作站um—用户态的Linux，允许开发者在用户态运行内核的虚拟平台Linux版本：前两位为版本号，第三位为发布号，第四位表示带有不同补丁的内核版本操作系统基本概念使用术语“操作系统”作为“内核”的同义词。操作系统必须完成两个主要目标：与硬件部分交互，为包含在硬件平台上的所有低层可编程部件提供服务。为运行在计算机系统的应用程序提供执行环境。]]></content>
+      <tags>
+        <tag>源码</tag>
+        <tag>Linux</tag>
+        <tag>内核</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[偷影子的人札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F8%2F%E5%81%B7%E5%BD%B1%E5%AD%90%E7%9A%84%E4%BA%BA%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[我的童年就在那里，带点忧愁又带点悲痛，在这外省的小城市里，我拼命等着伊丽莎白垂怜而看我一眼，在绝望中等待长大。为每一个你所偷来的影子找到点亮生命的小光芒，为他们找回隐匿的记忆拼图，这便是我们对你的全部请托。爱情里最需要的，是想象力。每个人必须用尽和全部的想象力来塑造对方，并丝毫不向现实低头。那么，当双方的幻想相遇……就再也没有比这更美的景象了。——Romain Gar这部作品完美展现了马克李维温柔风趣的写作风格，有催人泪下的亲情、浪漫感人的爱情和不离不弃的友情，清新浪漫的气息和温柔感人的故事相互交织，带给读者笑中带泪的阅读感受，是一部唤醒童年回忆和内心梦想的温情疗愈小说。]]></content>
       <categories>
-          
-          <category> 外国文学 </category>
-          
+        <category>外国文学</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 文艺 </tag>
-            
-            <tag> 童年 </tag>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> Marc Levy </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>诗人毛泽东札记</title>
-      <link href="/posts/2019/9/7/%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/7/%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。</p><p>北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！</p><a id="more"></a><p>中国人民的一代领袖<a href="http://tv.cctv.com/2018/11/22/VIDENewQth7mKTKUpF1ISjr1181122.shtml" target="_blank" rel="noopener">毛泽东</a>，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……</p>]]></content>
-      
-      
+      <tags>
+        <tag>文艺</tag>
+        <tag>童年</tag>
+        <tag>阅读</tag>
+        <tag>Marc Levy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[诗人毛泽东札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E8%AF%97%E4%BA%BA%E6%AF%9B%E6%B3%BD%E4%B8%9C%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[中国，一个像诗一样美丽的国家，一个自古至今充满着无数诗歌的地方。北国风光，千里冰封，万里雪飘。望长城内外惟余莽莽，大河上下顿失滔滔，山舞银蛇原驰蜡象，欲与天公试比高！中国人民的一代领袖毛泽东，于繁忙的政治、军事工作之外，吟诗填词，乃其馀(yú)事。但从他小时候熟读诗云子曰之日起，到他逝世前在后花园低吟“今我来兮，杨柳依依”之时止，诵习、评述与创作构成了他的整个诗词人生……]]></content>
       <categories>
-          
-          <category> 传记 </category>
-          
+        <category>传记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> 诗歌 </tag>
-            
-            <tag> 生平 </tag>
-            
-            <tag> 毛泽东 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文化苦旅札记</title>
-      <link href="/posts/2019/9/7/%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0/"/>
-      <url>/posts/2019/9/7/%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。</p><a id="more"></a><p>有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……</p>]]></content>
-      
-      
+      <tags>
+        <tag>阅读</tag>
+        <tag>诗歌</tag>
+        <tag>生平</tag>
+        <tag>毛泽东</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文化苦旅札记]]></title>
+    <url>%2Fposts%2F2019%2F9%2F7%2F%E6%96%87%E5%8C%96%E8%8B%A6%E6%97%85%E6%9C%AD%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[莫高窟大门外，有一条河，过河有一溜空地，高高低低建着几座僧人圆寂塔。塔呈圆形，状近葫芦，外敷白色。从几座坍弛的来看，塔心竖一木桩，四周以黄泥塑成，基座垒以青砖。历来主持莫高窟的僧侣都不富裕，从这里也可找见证明。夕阳西下，朔风凛冽，这个破落的塔群更显得悲凉。有一座塔，由于修建年代较近，保存得较为完整。塔身有碑文，移步读去，猛然一惊……]]></content>
       <categories>
-          
-          <category> 专著 </category>
-          
+        <category>专著</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 阅读 </tag>
-            
-            <tag> 余秋雨 </tag>
-            
-            <tag> 散文 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/posts/2019/9/6/hello-world/"/>
-      <url>/posts/2019/9/6/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p><h3 id="Common-Command"><a href="#Common-Command" class="headerlink" title="Common Command"></a>Common Command</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean <span class="comment">#清理之前生成的内容，即public文件</span></span><br><span class="line">$ hexo g <span class="comment">#生成静态文件</span></span><br><span class="line">$ hexo d <span class="comment">#部署</span></span><br><span class="line">$ hexo s <span class="comment">#启动本地服务，可以通过http://localhost:4000查看</span></span><br><span class="line">$ hexo s --debug <span class="comment">#使用debug模式启动服务</span></span><br></pre></td></tr></table></figure><h3 id="How-to-create-my-blog"><a href="#How-to-create-my-blog" class="headerlink" title="How to create my blog"></a>How to create my blog</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">Open git Bash</span><br><span class="line"></span><br><span class="line">Enter the following <span class="built_in">command</span> to create an article, <span class="built_in">where</span> title is the title of the article</span><br><span class="line"></span><br><span class="line">$ hexo new <span class="string">"title"</span></span><br><span class="line"></span><br><span class="line">Then you will find that a <span class="string">"title. md"</span> is generated <span class="keyword">in</span> the <span class="built_in">source</span>\ posts directory, and you can write your own blog <span class="keyword">in</span> this file!</span><br><span class="line"></span><br><span class="line">Once you have written it, just follow the steps mentioned above.</span><br><span class="line"></span><br><span class="line">Add &lt;!--more--&gt; and you can see a part of article.</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>阅读</tag>
+        <tag>余秋雨</tag>
+        <tag>散文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Fposts%2F2019%2F9%2F6%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: DeploymentCommon Command12345$ hexo clean #清理之前生成的内容，即public文件$ hexo g #生成静态文件$ hexo d #部署$ hexo s #启动本地服务，可以通过http://localhost:4000查看$ hexo s --debug #使用debug模式启动服务How to create my blog1234567891011Open git BashEnter the following command to create an article, where title is the title of the article$ hexo new "title"Then you will find that a "title. md" is generated in the source\ posts directory, and you can write your own blog in this file!Once you have written it, just follow the steps mentioned above.Add &lt;!--more--&gt; and you can see a part of article.]]></content>
+  </entry>
 </search>
