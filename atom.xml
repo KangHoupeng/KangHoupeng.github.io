@@ -33,7 +33,13 @@
     
     
     
-      <category term="阅读,诗歌,李清照,生平" scheme="http://kanghoupeng.com/tags/%E9%98%85%E8%AF%BB-%E8%AF%97%E6%AD%8C-%E6%9D%8E%E6%B8%85%E7%85%A7-%E7%94%9F%E5%B9%B3/"/>
+      <category term="阅读" scheme="http://kanghoupeng.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="诗歌" scheme="http://kanghoupeng.com/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+      <category term="生平" scheme="http://kanghoupeng.com/tags/%E7%94%9F%E5%B9%B3/"/>
+    
+      <category term="李清照" scheme="http://kanghoupeng.com/tags/%E6%9D%8E%E6%B8%85%E7%85%A7/"/>
     
   </entry>
   
