@@ -60,7 +60,11 @@
     
     
     
-      <category term="Linux，内核，源码" scheme="http://kanghoupeng.com/tags/Linux%EF%BC%8C%E5%86%85%E6%A0%B8%EF%BC%8C%E6%BA%90%E7%A0%81/"/>
+      <category term="Linux" scheme="http://kanghoupeng.com/tags/Linux/"/>
+    
+      <category term="内核" scheme="http://kanghoupeng.com/tags/%E5%86%85%E6%A0%B8/"/>
+    
+      <category term="源码" scheme="http://kanghoupeng.com/tags/%E6%BA%90%E7%A0%81/"/>
     
   </entry>
   
