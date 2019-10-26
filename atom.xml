@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://kanghoupeng.github.io/"/>
-  <updated>2019-09-24T11:59:51.000Z</updated>
+  <updated>2019-10-26T13:07:05.000Z</updated>
   <id>https://kanghoupeng.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于阿里云数加构建企业级数据分析平台</title>
+    <link href="https://kanghoupeng.github.io/posts/2019/10/26/%E5%9F%BA%E4%BA%8E%E9%98%BF%E9%87%8C%E4%BA%91%E6%95%B0%E5%8A%A0%E6%9E%84%E5%BB%BA%E4%BC%81%E4%B8%9A%E7%BA%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0/"/>
+    <id>https://kanghoupeng.github.io/posts/2019/10/26/基于阿里云数加构建企业级数据分析平台/</id>
+    <published>2019-10-26T13:07:05.000Z</published>
+    <updated>2019-10-26T13:07:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Contents"><a href="#Contents" class="headerlink" title="Contents"></a>Contents</h3><p>数据分析介绍</p><p>阿里云数加介绍</p><p>常用的数加产品</p><p>任务：搭建企业级的数据分析平台</p><h3 id="数据分析介绍"><a href="#数据分析介绍" class="headerlink" title="数据分析介绍"></a>数据分析介绍</h3><p>数据分析是基于商业目的，有目的的进行收集、整理、加工和分析数据，提炼有价值信息的过程。</p><p>明确目的、数据收集、数据处理、数据分析、数据展现、分析报告。</p><p>数据分析的目的：获得用户、留住用户、增加收益；市场营销、产品运营、客户服务；业务优化、流程改进、发现机会。</p><p>数据分析平台组成部分：（数据存储组织）</p><p>源数据、数据仓库、数据应用</p><p>处理过程：分析需求、确认数据源、ETL处理、数据整合、数据建模、分析展现</p><h3 id="阿里云数加介绍"><a href="#阿里云数加介绍" class="headerlink" title="阿里云数加介绍"></a>阿里云数加介绍</h3><p>数加是阿里云大数据的品牌名，旗下包含一系列的大数据产品及服务，是上万名工程师实战检验过程的一站式大数据平台。</p><p>数加是阿里云大数据的核心能力。</p><p>数据采集：PC、APP、WI-FI、基站、工业传感器、手环手表</p><p>计算引擎：大规模计算、实时计算、流式计算</p><p>数据加工：SQL、MR、Shell、图形化</p><p>数据分析：Report、Dilldown、拖拽</p><p>机器学习：决策树、聚类、神经网络、支持向量机</p><p>数据应用：广告推荐、定向推销、医疗、体育、金融</p><p>数加平台发展历程：</p><p>2009.09 阿里云成立</p><p>2010.04 自主研发Maxcompute平台</p><p>2012.07 成立数据事业部</p><p>2013.08 5K集群规模</p><p>2014 大数据平台日趋成熟</p><p>2016.01 数加平台</p><h3 id="常用的数加产品"><a href="#常用的数加产品" class="headerlink" title="常用的数加产品"></a>常用的数加产品</h3><p><img src="C:%5CUsers%5Casus%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1572096983431.png" alt="1572096983431"></p><p><img src="C:%5CUsers%5Casus%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1572097108408.png" alt="1572097108408"></p><p>MaxCompute：提供针对TB/PB级数据、实时性要求不高的分布式处理能力</p><p>DataIDE：基于Max Compute、一站式数据开发、清晰可见的血缘、可视化开发界面</p><p>QuickBI：海量数据实时在线分析，多快好省</p><p>常见的应用场景：从业务系统到数据分析</p><p><img src="C:%5CUsers%5Casus%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1572097663895.png" alt="1572097663895"></p><h3 id="任务：搭建企业级的数据分析平台"><a href="#任务：搭建企业级的数据分析平台" class="headerlink" title="任务：搭建企业级的数据分析平台"></a>任务：搭建企业级的数据分析平台</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Contents&quot;&gt;&lt;a href=&quot;#Contents&quot; class=&quot;headerlink&quot; title=&quot;Contents&quot;&gt;&lt;/a&gt;Contents&lt;/h3&gt;&lt;p&gt;数据分析介绍&lt;/p&gt;&lt;p&gt;阿里云数加介绍&lt;/p&gt;&lt;p&gt;常用的数加产品&lt;/p&gt;&lt;p&gt;任务：搭建
+      
+    
+    </summary>
+    
+    
+    
+      <category term="-大数据 -阿里云 -数据分析平台" scheme="https://kanghoupeng.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE-%E9%98%BF%E9%87%8C%E4%BA%91-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>李清照词传札记</title>
